@@ -3,6 +3,7 @@ public class Test {
         System.out.println("Java");
         int a = 3;
         int b = 3;
+        int c = 3;
 
     }
 }
